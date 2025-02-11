@@ -63,3 +63,11 @@ a:visited {
 h3 a:hover {
   color: white;
 }
+
+
+.oswald-<uniquifier> {
+  font-family: "Oswald", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
